@@ -15,3 +15,4 @@ Django ORM, Python sinflarini ma'lumotlar bazasidagi jadval yozuvlariga bog'lash
 Django ORM-i, ushbu sinf yaratishni yordam beradi, shuningdek, ma'lumotlar bazasidagi yozuvlar bilan ishlashni osonlashtiradi. Ma'lumot kirituvchi ORM-i yordamida, foydalanuvchilar ma'lumotlarni tekshirish va saqlashga imkon beradi. Django ORM-i, ma'lumotlarni qidirish va izlashni ham osonlashtiradi, shuningdek, ma'lumotlarni tahrir qilish va o'chirishni ham osonlashtiradi.
 
 Bunday ormalar, shuningdek, ko'p qidiruvlarga imkon beradi, shu jumladan, qidiruvlar, ma'lumotlarni filtrlash, qidiruvlar, ma'lumotlarni tartiblash, birlashmashtirish, to'plamlar bilan ishlash va boshqalar kabi qidiruvlar. Bu xususiyatlar, ma'lumotlar bazasida ishlashni osonlashtiradi va xatolikni kamaytiradi.
+
