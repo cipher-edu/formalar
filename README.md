@@ -1,0 +1,2 @@
+# formalar
+Djangoda formalar
